@@ -1,1 +1,2 @@
-lorem 1 dan 2 
+lorem 1 dan 2
+lorem 3 
